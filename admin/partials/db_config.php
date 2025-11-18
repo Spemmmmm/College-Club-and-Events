@@ -1,9 +1,9 @@
 <?php
 
-$hostname = 'localhost';
-$username = 'root';
-$pass = '';
-$db = 'club';
+$hostname = 'sql100.infinityfree.com';
+$username = 'if0_40446138';
+$pass = 'Bly6qjqvJcAKD';
+$db = 'if0_40446138_clubdb';
 
 $con = mysqli_connect($hostname, $username, $pass, $db,3307);
 
